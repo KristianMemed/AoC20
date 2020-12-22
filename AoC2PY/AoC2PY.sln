@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AoC2PY", "AoC2PY.pyproj", "{A34FD2BE-C0C6-42F6-BD71-579DACA40ABA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A34FD2BE-C0C6-42F6-BD71-579DACA40ABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34FD2BE-C0C6-42F6-BD71-579DACA40ABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCC66A46-07B6-46DB-BF0B-72C87F0EA274}
+	EndGlobalSection
+EndGlobal
