@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AoC8PY", "AoC8PY.pyproj", "{0DBC580E-D2ED-4BD3-B3CA-EECE5AB37A0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DBC580E-D2ED-4BD3-B3CA-EECE5AB37A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DBC580E-D2ED-4BD3-B3CA-EECE5AB37A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C54A15F2-3FB4-4829-9705-355F581101D8}
+	EndGlobalSection
+EndGlobal
